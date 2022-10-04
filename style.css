@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* font-family: 'Roboto', sans-serif */
+
 .contenedor_manu{
     background-color: rgb(168, 201, 223);
+}
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.label_manu{
+    font-weight: bold;
 }
